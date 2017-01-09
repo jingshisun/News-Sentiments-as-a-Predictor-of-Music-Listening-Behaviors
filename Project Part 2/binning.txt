@@ -1,0 +1,9 @@
+
+
+The following are the first 5 rows of the newly binned and original datacohesiondistance: 
+
+(0.5, 1] 0.57525804833
+(0.5, 1] 0.824403561081
+(0.5, 1] 0.676127277962
+[0, 0.5] 0.277292096882
+[0, 0.5] 0.445757388571

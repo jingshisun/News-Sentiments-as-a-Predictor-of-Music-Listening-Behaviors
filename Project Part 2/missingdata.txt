@@ -1,0 +1,9 @@
+
+
+The following were considered missing values and were removed: 
+
+                                  Duplicate songs:        286
+                            Lyrics is 'not found':        487
+         Number of characters in lyriclength < 35:        650
+                                 Duration is zero:        283
+                                    Total removed:       1056

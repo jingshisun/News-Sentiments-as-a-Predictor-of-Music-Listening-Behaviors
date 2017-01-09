@@ -1,0 +1,24 @@
+There are 286 duplicates in tracks data set from a total of 5656
+There are 286 duplicates in lyrics data set from a total of 5656
+The fraction of missing values for page in tracks data set is: 0.00%
+The fraction of missing values for name in tracks data set is: 0.00%
+The fraction of missing values for songmbid in tracks data set is: 33.70%
+The fraction of missing values for artistname in tracks data set is: 0.00%
+The fraction of missing values for artistmbid in tracks data set is: 4.08%
+The fraction of missing values for artisturl in tracks data set is: 0.00%
+The fraction of missing values for duration in tracks data set is: 36.19%
+The fraction of missing values for listeners in tracks data set is: 0.00%
+The fraction of missing values for url in tracks data set is: 0.00%
+The fraction of missing values for rank in tracks data set is: 0.00%
+The fraction of missing values for streamstat in tracks data set is: 100.00%
+The fraction of missing values for streamtext in tracks data set is: 100.00%
+The fraction of missing values for imagesmallurl in tracks data set is: 0.02%
+The fraction of missing values for imagemedurl in tracks data set is: 0.02%
+The fraction of missing values for imagelargeurl in tracks data set is: 0.02%
+The fraction of missing values for imagexlargeurl in tracks data set is: 0.02%
+The fraction of missing values for url in lyrics data set is: 0.00%
+The fraction of missing values for lyrics in lyrics data set is: 8.61%
+
+The quality score for tracks data set is 17.13% which is calculated by averaging the fractions (of missing values for all the other attributes) in the data set
+
+The quality score for lyrics data set is 4.31% which is calculated by averaging the fractions (of missing values for all the other attributes) in the data set

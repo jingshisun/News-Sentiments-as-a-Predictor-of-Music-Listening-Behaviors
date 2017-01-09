@@ -1,0 +1,11 @@
+
+
+The following are silhouette scores for K-means with varying number of K clusters: 
+
+For K=2, the silhouette score is: 0.303509294283
+For K=3, the silhouette score is: 0.308131504091
+For K=4, the silhouette score is: 0.26607966686
+For K=5, the silhouette score is: 0.277218751582
+For K=6, the silhouette score is: 0.292813546577
+For K=7, the silhouette score is: 0.296846377052
+For K=8, the silhouette score is: 0.280664198811

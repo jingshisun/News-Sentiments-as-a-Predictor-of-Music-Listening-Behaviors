@@ -1,0 +1,4 @@
+,anger_percent,sadness_percent,joy_percent
+anger_percent,1.0,0.4037,-0.1659
+sadness_percent,0.4037,1.0,-0.1587
+joy_percent,-0.1659,-0.1587,1.0

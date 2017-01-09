@@ -1,0 +1,11 @@
+
+
+The following are silhouette scores for Ward's method with varying number of K clusters: 
+
+For K=2, the silhouette score is: 0.261472525304
+For K=3, the silhouette score is: 0.268225883765
+For K=4, the silhouette score is: 0.206677929811
+For K=5, the silhouette score is: 0.217458182136
+For K=6, the silhouette score is: 0.226819756516
+For K=7, the silhouette score is: 0.225010880184
+For K=8, the silhouette score is: 0.23421531151

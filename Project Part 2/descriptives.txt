@@ -1,0 +1,54 @@
+
+
+Descriptive Statistics for Quantitative Variables: 
+                 VARAIBLE          MEAN        MEDIAN            SD
+                 fullrank       2607.77        2568.5       1561.96
+               artistfreq       15.2022             8       18.6698
+             lyricslength       1146.52           991       688.272
+                 duration        242262        233000       70810.1
+                listeners        309986        238910        268585
+                playcount   1.98192e+06   1.33571e+06    2.0661e+06
+                    anger       3.29565             2        4.9798
+                     fear       3.72696             2        5.1822
+             anticipation       4.66957             3       5.47885
+                 surprise         2.575             1       3.86515
+                    trust       4.49196             3       5.53712
+                  sadness       3.75022             2       5.02228
+                      joy       5.34891             3       6.85442
+                  disgust       2.43913             1       4.24138
+                wordcount       18.1222            14       15.2788
+            anger_percent      0.164389         0.125      0.175326
+             fear_percent      0.197839          0.16      0.192465
+     anticipation_percent      0.257131      0.230769       0.20514
+         surprise_percent      0.138455           0.1      0.159246
+            trust_percent      0.243078      0.214286      0.199573
+          sadness_percent      0.202753      0.166667      0.189398
+              joy_percent      0.283305          0.25      0.228173
+          disgust_percent      0.121339     0.0769231      0.151991
+         cohesiondistance      0.571227      0.533948      0.220045
+
+
+The 10 most common tags are: (# of times tagged) 
+                rock:    1674
+               indie:    1359
+         alternative:    1212
+                 pop:     829
+              hiphop:     755
+           indierock:     641
+          electronic:     641
+     alternativerock:     507
+         classicrock:     484
+     femalevocalists:     402
+
+
+The 10 most common artists are: (# of times in top 5000) 
+           Radiohead:      83
+          Kanye West:      76
+               Drake:      58
+         The Beatles:      51
+         Beach House:      40
+        Lana Del Rey:      39
+         Arcade Fire:      38
+      Kendrick Lamar:      37
+        Led Zeppelin:      37
+        The National:      33

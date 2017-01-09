@@ -1,0 +1,12 @@
+The weighted number of emotion words in news articles between 2016-09-19 and 2016-09-26:
+
+       The weighted number of "negative" words is:    2544132
+       The weighted number of "positive" words is:    2963431
+          The weighted number of "anger" words is:    1614031
+           The weighted number of "fear" words is:    2536931
+   The weighted number of "anticipation" words is:    1328885
+       The weighted number of "surprise" words is:    1187983
+          The weighted number of "trust" words is:    2487972
+        The weighted number of "sadness" words is:    1614947
+            The weighted number of "joy" words is:     705514
+        The weighted number of "disgust" words is:     594543

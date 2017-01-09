@@ -1,0 +1,99 @@
+
+1) Hypothesis: Positive and Negative clusters from K-means have identical mean values for playcount.
+
+Test statistics for t-test:
+
+The means (standard deviations) are:
+Cluster 0: 1976682.91186 (2087207.03056)
+Cluster 2: 2023205.48714 (2069342.28412)
+
+Ttest_indResult(statistic=-0.62344275576200925, pvalue=0.53304802506282101)
+
+
+
+2) Hypothesis: Playcount is predicted by cohesion distance and song duration.
+
+Test statistics for Regression:
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                      Y   R-squared:                       0.002
+Model:                            OLS   Adj. R-squared:                  0.001
+Method:                 Least Squares   F-statistic:                     4.054
+Date:                Tue, 08 Nov 2016   Prob (F-statistic):             0.0174
+Time:                        12:28:29   Log-Likelihood:                -73412.
+No. Observations:                4600   AIC:                         1.468e+05
+Df Residuals:                    4597   BIC:                         1.468e+05
+Df Model:                           2                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [95.0% Conf. Int.]
+------------------------------------------------------------------------------
+Intercept   1.618e+06    1.4e+05     11.532      0.000      1.34e+06  1.89e+06
+X[0]         1.32e+05   1.39e+05      0.952      0.341      -1.4e+05  4.04e+05
+X[1]           1.1916      0.432      2.760      0.006         0.345     2.038
+==============================================================================
+Omnibus:                     1893.462   Durbin-Watson:                   1.741
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):             8357.799
+Skew:                           2.000   Prob(JB):                         0.00
+Kurtosis:                       8.254   Cond. No.                     1.48e+06
+==============================================================================
+
+Warnings:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.48e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+
+
+3) Hypothesis: cohesiondistance_binned can be predicted by duration, listeners, playcount, fullrank, and wordcount
+
+a) Accuracy Percent for SVM: 0.520289855072
+
+Confusion matrix is:
+[[718   0   0]
+ [ 74   0   0]
+ [588   0   0]]
+
+Chi-square goodness-of-fit is:
+Power_divergenceResult(statistic=1272.3676880222843, pvalue=5.1152524253658268e-277)
+
+b) Accuracy Percent for Naive Bayes: 0.524637681159
+
+Confusion matrix is:
+[[548   0 170]
+ [ 59   0  15]
+ [412   0 176]]
+
+Chi-square goodness-of-fit is:
+Power_divergenceResult(statistic=inf, pvalue=0.0)
+
+c) Accuracy Percent for Random Forest: 0.499275362319
+
+Confusion matrix is:
+[[470   9 239]
+ [ 46   0  28]
+ [366   3 219]]
+
+Chi-square goodness-of-fit is:
+Power_divergenceResult(statistic=107.09943352482151, pvalue=5.5418338699868576e-24)
+
+c) Accuracy Percent for Decision Tree: 0.461594202899
+
+Confusion matrix is:
+[[380  35 303]
+ [ 44   2  28]
+ [288  45 255]]
+
+Chi-square goodness-of-fit is:
+Power_divergenceResult(statistic=0.92180686171931703, pvalue=0.63071358192566618)
+
+e) Accuracy Percent for k-NN: 0.477536231884
+
+Confusion matrix is:
+[[420   5 293]
+ [ 48   2  24]
+ [348   3 237]]
+
+Chi-square goodness-of-fit is:
+Power_divergenceResult(statistic=70.693382314154306, pvalue=4.457866689354542e-16)
+
