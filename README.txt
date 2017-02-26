@@ -1,6 +1,6 @@
 ANLY 501 Project: Sentimental Analysis of Music Listening Behaviors
 
-This project used news sentiments as a predictor of music listening behaviors by python.
+This project used news sentiments as a predictor of music listening behaviors, implemented by python.
 
 It is a collaborated project accomplished by me and Joo Chung.
 
