@@ -12,10 +12,10 @@ Part I:
 
 Part II:
 	
-	• Conducted sentimental analysis and clustering analysis (Ward, k-means, and dbscan) on the data set based	on six so-called “basic” emotions (e.g. happiness, surprise, and fear) to get insights of the data.
+	• Conducted sentimental analysis and clustering analysis (Ward, k-means, and dbscan) on the data set basedon six so-called “basic” emotions (e.g. happiness, surprise, and fear) to get insights of the data.
 	
-	• Applied Naive Bayes, decision tree, random forest, and support vector machines to predict cohesion of	sentiments between songs and news articles.
+	• Applied Naive Bayes, decision tree, random forest, and support vector machines to predict cohesion ofsentiments between songs and news articles.
 
 Part III:
 	
-	• Generated interactive visualizations to present the relationships between song popularity and sentiments	of news articles.
+	• Generated interactive visualizations to present the relationships between song popularity and sentimentsof news articles.
