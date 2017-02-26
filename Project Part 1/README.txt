@@ -1,5 +1,4 @@
 ANLY 501 Project: Part 1
-Joo Chung and Jingshi Sun
 October 4, 2016
 
 

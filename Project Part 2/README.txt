@@ -1,6 +1,5 @@
 ANLY 501 Project: Part 2
 November 8, 2016
-Joo Chung and Jingshi Sun
 
 This README will explain the contents of the project ZIP file and explain the functions used in the main 
 Python script.

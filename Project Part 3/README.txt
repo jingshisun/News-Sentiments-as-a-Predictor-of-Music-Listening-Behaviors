@@ -1,6 +1,5 @@
 ANLY 501 Project: Part 3
 December 7, 2016
-Joo Chung and Jingshi Sun
 
 This README will explain the contents of the project ZIP file and explain the functions used in the main 
 Python script. For the most part, the contents of the ZIP file (excluding the legacy folders from Parts 1 and 2)
