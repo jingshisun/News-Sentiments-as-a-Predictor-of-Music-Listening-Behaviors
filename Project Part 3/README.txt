@@ -1,7 +1,7 @@
 COSC 587 Project: Part 3
 December 7, 2016
 
-This README will explain the contents of the project ZIP file and explain the functions used in the main 
+This README will explain the contents of the project file and explain the functions used in the main 
 Python script. For the most part, the contents of the ZIP file (excluding the legacy folders from Parts 1 and 2)
 contain only datasets, plots, and code for the additional analyses produced for Part 3 of the project. Since
 the final story included aspects from Parts 1 and 2, the deliverables for those parts have been included in this
