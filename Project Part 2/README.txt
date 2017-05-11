@@ -1,4 +1,4 @@
-ANLY 501 Project: Part 2
+COSC 587 Project: Part 2
 November 8, 2016
 
 This README will explain the contents of the project ZIP file and explain the functions used in the main 
