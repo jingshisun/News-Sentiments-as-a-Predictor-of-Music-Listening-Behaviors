@@ -2,7 +2,7 @@ COSC 587 Project: Part 1
 October 4, 2016
 
 
-Description of ZIP file contents
+Description of contents
 -----------------------------------------------------------------------------------------
 1) "project_1.py"       
  
