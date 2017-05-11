@@ -1,4 +1,4 @@
-ANLY 501 Project: Sentimental Analysis of Music Listening Behaviors
+COSC 587 Project: Sentimental Analysis of Music Listening Behaviors
 
 This project used news sentiments as a predictor of music listening behaviors, implemented by python.
 
