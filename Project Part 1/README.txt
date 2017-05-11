@@ -1,4 +1,4 @@
-ANLY 501 Project: Part 1
+COSC 587 Project: Part 1
 October 4, 2016
 
 
