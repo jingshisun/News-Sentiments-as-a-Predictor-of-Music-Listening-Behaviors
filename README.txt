@@ -2,7 +2,7 @@ COSC 587 Project: Sentimental Analysis of Music Listening Behaviors
 
 This project used news sentiments as a predictor of music listening behaviors, implemented by python.
 
-It is a collaborated project accomplished by me and Joo Chung.
+It is a collaborated project accomplished by Joo Chung and me.
 
 The project consist of 3 parts: 
 
